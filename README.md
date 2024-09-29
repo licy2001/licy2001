@@ -17,4 +17,5 @@
 <div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/licy0089/count.svg)
 </div>
+![Visitor Count](https://profile-counter.glitch.me/licy0089/count.svg)
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Chunyu-Li.
