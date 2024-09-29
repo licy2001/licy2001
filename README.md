@@ -1,6 +1,6 @@
 <div id="Hei! Nice to see you." align=center>
 
-// ![Modern C++ template][github-sub-title:img]
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licy0089)](https://github.com/anuraghazra/github-readme-stats)
 
