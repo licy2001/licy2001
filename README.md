@@ -1,4 +1,3 @@
-<div id="Hei! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!" align=center>
 <div id="title" align=center>
 ![Modern C++ template][github-sub-title:img]
 
