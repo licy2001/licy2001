@@ -14,11 +14,9 @@ Hey! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
+![Visitor Count](https://profile-counter.glitch.me/licy0089/count.svg)
 </div>
 
-
 ![background](image/头像.jpg)
-
-![Visitor Count](https://profile-counter.glitch.me/licy0089/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Chunyu-Li.
