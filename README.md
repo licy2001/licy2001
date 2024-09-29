@@ -1,9 +1,8 @@
 <div id="title" align=center>
   
-Hei! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!
-  
 ![Modern C++ template][github-sub-title:img]
-
+  
+Hei! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licy2001&show_icons=true&theme=radical)
 <!--
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
