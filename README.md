@@ -1,11 +1,8 @@
 <div id="title" align=center>
-
-![Modern C++ template][github-sub-title:img]
-
-<div align="center">
   
-欢迎来到我的GitHub页面
-</div>
+Hei! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!
+  
+![Modern C++ template][github-sub-title:img]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licy2001&show_icons=true&theme=radical)
 <!--
