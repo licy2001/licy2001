@@ -1,7 +1,7 @@
 <div id="title" align=center>
   
-![Modern C++ template][github-sub-title:img]
-Hei! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!
+![Modern C++ template][github-sub-title:img] Hei! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licy2001&show_icons=true&theme=radical)
 <!--
