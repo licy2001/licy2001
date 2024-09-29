@@ -2,10 +2,7 @@
   
 ![Modern C++ template][github-sub-title:img] 
 
-<div align="center">
-  
-  😄 Hey! Nice to see you. I'm <span style="color: red;">Chunyu Li</span> (李春雨 in Chinese)!
-</div>
+**😄 Hey! Nice to see you. I'm <span style="color: red;">Chunyu Li</span> (李春雨 in Chinese)!**
 
 ![Chunyu Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=licy2001&show_icons=true&theme=radical)
 <!--
