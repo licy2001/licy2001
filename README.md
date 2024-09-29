@@ -23,4 +23,4 @@ Hey! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!
 ![background](image/头像.jpg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Chunyu-Li.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=licy2001&repo=Balance-table&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=licy2001&repo=Balance-table&theme=shadow_green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
