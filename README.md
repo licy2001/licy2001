@@ -6,19 +6,19 @@
 
 ![Chunyu Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=licy2001&show_icons=true&theme=vue)<!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 
-💬 I am a Master of Science student at Wuhan University, School of Electronic Information.
+:mortar_board: I am a Master of Science student at Wuhan University, School of Electronic Information.
 
-🔭 Reseach-wise, I mainly focus on:
+:telescope: Reseach-wise, I mainly focus on:
 
 - Information Fusion
 
 - Image Enhancement
 
-✨News:
+:fire: News:
 
-:memo:[2024-09-30]
+:bulb: [2024-09-30]
 
-⚡Publications:
+:zap: Publications:
 
 
 <!--
