@@ -5,7 +5,7 @@
 **😄 Hey! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!**
 
 ![Chunyu Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=licy2001&show_icons=true&theme=vue)<!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licy2001&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licy2001&layout=donut-vertical)
 
 :mortar_board: **I am a Master of Science student at Wuhan University, School of Electronic Information.**
 
