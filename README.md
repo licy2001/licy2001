@@ -38,6 +38,7 @@
 ![background](image/头像.jpg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Chunyu-Li.
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=licy2001&repo=Balance-table&theme=shadow_green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licy2001&hide_progress=true)
+
+
