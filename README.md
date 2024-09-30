@@ -8,6 +8,12 @@
 
 💬 I am a Master of Science student at Wuhan University, School of Electronic Information.
 
+🔭 Reseach-wise, I mainly focus on:
+
+- Information Fusion
+
+- Image Enhancement
+
 <!--
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
