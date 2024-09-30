@@ -8,7 +8,7 @@
 
 :mortar_board: I am a Master of Science student at Wuhan University, School of Electronic Information.
 
-:telescope: Reseach-wise, I mainly focus on:
+:rocket: Reseach-wise, I mainly focus on:
 
 - Information Fusion
 
