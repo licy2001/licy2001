@@ -2,7 +2,7 @@
 
 <img src="github-sub-title:img" alt="Modern C++ template" style="float: left; margin-right: 10px;">
 
-![Modern C++ template][github-sub-title:img] 
+![github-sub-title:img] 
 
 **😄 Hey! Nice to see you. I'm Chunyu Li (李春雨 in Chinese)!**
 
