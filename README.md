@@ -39,7 +39,7 @@
 
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Chunyu-Li.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licy2001&layout=donut)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licy2001&layout=donut)-->
 
 
 
